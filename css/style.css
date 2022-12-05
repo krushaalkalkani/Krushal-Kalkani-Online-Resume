@@ -15,8 +15,8 @@ body::-webkit-scrollbar {
     height: 65vh;
     opacity: 0.9;
     background-image: url(https://images.unsplash.com/photo-1514483127413-f72f273478c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
-    background-size: contain;
-    /* background-size: cover; */
+    /* background-size: contain; */
+    background-size: cover;
     background-position: center;
     background-attachment: fixed;
     padding-top: 1.2rem;
